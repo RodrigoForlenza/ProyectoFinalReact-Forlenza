@@ -2,15 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## API Keys
-
-- REACT_APP_apiKey=AIzaSyAXhYLBM4OwfUV5gsLIhI8wVvu1vuaSgfM
-- REACT_APP_authDomain=ohashi-33270.firebaseapp.com
-- REACT_APP_projectId=ohashi-33270
-- REACT_APP_storageBucket=ohashi-33270.appspot.com
-- REACT_APP_messagingSenderId=37170897274
-- REACT_APP_appId=1:37170897274:web:5aa20204c1dfc81223b6c3
-
 ## Available Scripts
 
 In the project directory, you can run:
