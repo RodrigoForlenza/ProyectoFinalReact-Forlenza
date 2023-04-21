@@ -1,0 +1,40 @@
+
+.itemDetail{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 20px;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    padding: 30px;
+    background: linear-gradient(0deg, rgba(255,241,193,1) 0%, rgba(243,221,148,1) 100%);
+    border-radius: 5px;
+    box-shadow: -9px 5px 4px grey;
+    transition: 0.5s;
+    position: relative;
+}
+
+.itemDetailImg img{
+    border: 2px black solid;
+    max-width: 100%;
+}
+
+.itemDetailText{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.itemDetailText h2 {
+    margin-top: 0;
+    border-bottom: 2px solid black;
+}
+
+.itemDetailText h3 {
+    font-size: 1.2em;
+}
+
+.itemDetailText p {
+    font-size: 0.8em;
+}

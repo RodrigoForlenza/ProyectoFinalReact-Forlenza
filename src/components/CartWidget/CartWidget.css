@@ -1,0 +1,26 @@
+
+.CartWidget{
+    display:flex;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 3px;
+    cursor: pointer;
+}
+
+.CartWidget:hover{
+    transform: scale(1.02);
+    box-shadow: -3px 2px 4px black;
+    transition: all 0.1s ease-in-out;
+}
+
+.IconoUsuarioCarrito{
+    display: flex;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    max-width: 100%;
+}
+
+.Contador{
+    align-self: center;
+}
