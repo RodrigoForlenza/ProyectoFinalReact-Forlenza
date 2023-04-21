@@ -1,7 +1,6 @@
 # React Final Project - Coderhouse
 
-## E-Commerce - Japanese Food 
-This project is a Japanese-Food themed e-commerce currently under construction.
+This project is a Japanese-food themed e-commerce currently under construction.
 
 ## Running Locally
 ```sh
